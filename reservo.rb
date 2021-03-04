@@ -1,3 +1,6 @@
+# reservo - perform action on user-defined sets of servers using SSH
+# Copyright (C) 2020  David Ryack
+
 #!/somewhere/ruby-2.6.6/bin/ruby
 require 'rubygems'
 require 'net/ssh'
